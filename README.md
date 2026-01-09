@@ -1,13 +1,13 @@
-# TanStack Chat Template
+# find your tutor
 
-![TanStack Starter Preview](tanstack-starter-preview.jpg)
+![TanStack Starter Preview](find-your-tutor.jpg)
 
 A modern chat template built with TanStack Router and Claude AI integration features a clean and responsive interface.
 
-**⚡ View demo:** [https://tanstack-starter.netlify.app/](https://tanstack-starter.netlify.app/)
+**⚡ View demo:** [https://tanstack-starter.netlify.app/](https://find-your-tutor.app/)
 
 ## Table of Contents
-- [Deploy to Netlify](#deploy-to-netlify)
+-[find your tutor]
 - [Features](#features)
   - [AI Capabilities](#ai-capabilities)
   - [User Experience](#user-experience)
@@ -37,11 +37,10 @@ A modern chat template built with TanStack Router and Claude AI integration feat
 - [State Management](#state-management)
 - [Learn More](#learn-more)
 
-## Deploy to Netlify
+## FIND YOUR TUTOR
 
 Want to deploy immediately? Click this button
 
-[![Deploy to Netlify Button](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/tanstack-template)
 
 Clicking this button will create a new repo for you that looks exactly like this one, and sets that repo up immediately for deployment on Netlify.
 
